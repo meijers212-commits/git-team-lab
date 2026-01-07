@@ -6,3 +6,7 @@ This project demonstrates professional Git workflow with remote repositories.
 - `feature/*`: Individual feature branches
 ## Setup
 See lab instructions for complete setup guide.
+## Installation
+1. Clone repository:
+Install dependencies:
+Start feature branch:
